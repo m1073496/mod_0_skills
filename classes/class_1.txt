@@ -1,0 +1,19 @@
+Class: Server
+
+
+Attributes:
+
+name (string)
+age (integer)
+tablesServed (array)
+atWork (boolean)
+
+
+Methods:
+
+changeName (this will change or modify the name attribute)
+increaseAge (this will add 1 to the age attribute as the server ages)
+getTable (this will retrieve a specific table number from the tablesServed attribute
+          that will tell the server where they need to go next)
+clockOut (this will change the atWork attribute from true (if they're at work) to false
+          (if they're leaving work))
