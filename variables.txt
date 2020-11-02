@@ -1,0 +1,12 @@
+var food = "Cheeseburger";
+var isDelicious = true;
+food = "Taco";
+var num2 = 2;
+var num7 = 7;
+var quotient = num7 / num2;
+// console.log(quotient);
+var songs = ["Rain on Me", "Thunderstruck", "Rain Rain Go Away"];
+// console.log(songs);
+var omitFirstSong = songs.shift();
+//console.log(songs)
+console.log(songs.length);
