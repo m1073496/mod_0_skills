@@ -1,0 +1,17 @@
+Jessica
+
+
+Attributes:
+
+name: "Jessica"
+age: 26
+tablesServed: [1, 2, 3, 4, 5, 6]
+atWork: true
+
+
+Methods:
+
+changeName: "Sam"
+increaseAge: 27
+getTable: [3]
+clockOut: false
