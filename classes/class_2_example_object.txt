@@ -1,0 +1,17 @@
+Veggie wrap
+
+
+Attributes:
+
+nameOfDish: "Veggie wrap"
+glutenFree: true
+numOfSides: 1
+servedHot: false
+
+
+Methods:
+
+orderFood: "Veggie wrap" (name of dish retrieved and logged)
+addGluten: false (gluten was added, changing the glutenFree attribute to false)
+changeMenu: 2 (1 side dish was added)
+serveCold: false (already served cold, no changes made to the boolean)
