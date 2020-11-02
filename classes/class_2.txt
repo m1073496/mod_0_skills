@@ -1,0 +1,17 @@
+Class: Food
+
+
+Attributes:
+
+nameOfDish (string)
+glutenFree (boolean)
+numOfSides (integer)
+servedHot (boolean)
+
+
+Methods:
+
+orderFood (this will retrieve and log the nameOfDish of a menu item)
+addGluten (this may alter the boolean value of glutenFree)
+changeMenu (this will alter the numOfSides (number of sides) for a certain dish)
+serveCold (this may alter the servedHot boolean value)
